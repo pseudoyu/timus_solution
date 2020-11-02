@@ -5,3 +5,4 @@
 - ~~#1293 Eniya~~
 - ~~#1785 Lost in Localization~~
 - ~~#1409 Two Gangsters~~
+- ~~#2012 About Grisha N.~~
