@@ -7,3 +7,4 @@
 - ~~#1409 Two Gangsters~~
 - ~~#2012 About Grisha N.~~
 - ~~#1877 Bicycle Codes~~
+- ~~#2001 Mathematicians and Berries~~
